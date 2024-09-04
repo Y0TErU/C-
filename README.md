@@ -1,9 +1,4 @@
 # C-
 GitHub・C++練習用
 
-#include <iostream>
-
-int main()
-{
-  std::cout << "Yoteruです。" << std::endl;
-}
+C++言語とGitHubの練習用プログラム
